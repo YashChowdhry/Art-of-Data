@@ -3,8 +3,8 @@ layout: post
 title: Lab 1 - Digimon
 subtitle: Exploring the basics of the data analysis using csv
 cover-img: /assets/img/download.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/download2.jpg
+share-img: /assets/img/download3.jpg
 tags: [books, test]
 ---
 
