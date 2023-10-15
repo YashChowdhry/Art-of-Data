@@ -30,17 +30,17 @@ The study references quite a few sources, some of which involve conducting other
 
 Example datasets:
 
-Distribution of glycogen concentration values from quadriceps femoris
+- Distribution of glycogen concentration values from quadriceps femoris
 
-Cycling work output (watts), blood lactate accumulation, plasma accumulation of hypoxanthine, oxygen uptake → all used to determine higher initial creatine phosphate content and an increased rate of creatine phosphate resynthesis
+- Cycling work output (watts), blood lactate accumulation, plasma accumulation of hypoxanthine, oxygen uptake → all used to determine higher initial creatine phosphate content and an increased rate of creatine phosphate resynthesis
 
-Muscle ATP concentration in doing three isometric contractions
+- Muscle ATP concentration in doing three isometric contractions
 
-Muscle ATP, phosphocreatine (PCr), and lactate concentrations were measured from biopsy samples of vastus lateralis muscle after varying recovery times
+- Muscle ATP, phosphocreatine (PCr), and lactate concentrations were measured from biopsy samples of vastus lateralis muscle after varying recovery times
 
-Muscle total creatine concentration after consuming 20g/day creatine
+- Muscle total creatine concentration after consuming 20g/day creatine
 
-Blood ammonia accumulation during pre and post creatine supplementation
+- Blood ammonia accumulation during pre and post creatine supplementation
 
 The first source was published in Scandinavian Journal of Clinical and Laboratory Investigation, and thus not available to me, but it is still public
 
@@ -52,73 +52,74 @@ Some of the references were used in explaining the background information and ha
 
 Interested in exploring further:
 
-The background hints that the motivation to research such a topic stemmed from the lack of information and conflicting data. 
+- The background hints that the motivation to research such a topic stemmed from the lack of information and conflicting data. 
 They state there is limited research on whether creatine supplementation can effectively elevate muscle creatine phosphate content and maintain it during prolonged endurance exercise. 
 
-Of the five studies analyzing creatine effects on a duration greater than 20 minutes, three have shown increased performance whereas the other two demonstrate a decreased or constant performance. There are not enough studies to effectively corroborate data neither are the studies showing similar results encouraging more researchers to pursue this field. 
+- Of the five studies analyzing creatine effects on a duration greater than 20 minutes, three have shown increased performance whereas the other two demonstrate a decreased or constant performance. There are not enough studies to effectively corroborate data neither are the studies showing similar results encouraging more researchers to pursue this field. 
 
-The test subjects are experienced athletes. There are plenty of studies demonstrating that 20g/day creatine use in the short term has positively influenced intermittent exercise performance, but there is a lack of data regarding chronic, long-term, creatine supplementation and its effects on muscle creatine phosphate levels and performance.  
+- The test subjects are experienced athletes. There are plenty of studies demonstrating that 20g/day creatine use in the short term has positively influenced intermittent exercise performance, but there is a lack of data regarding chronic, long-term, creatine supplementation and its effects on muscle creatine phosphate levels and performance.  
 
 **5. What data is being recorded? What data might be left out?**
 
 Required data:
 
-Body weight
+- Body weight
 
-Percent body fat
+- Percent body fat
 
-Oxygen consumption(VO2) peak = peak aerobic capacity
+- Oxygen consumption(VO2) peak = peak aerobic capacity
 
-Training distance cycled per week
+- Training distance cycled per week
 
 Recorded data:
 
-Diet
+- Diet
 
-Muscle biopsy from quadricep femoris before and after 28 days
+- Muscle biopsy from quadricep femoris before and after 28 days
 
-Blood sample from forearm vein before and after 28 days
+- Blood sample from forearm vein before and after 28 days
 
-Oxygen consumption
+- Oxygen consumption
 
-VO2 peak 
+- VO2 peak 
 
-Final sprint times
+- Final sprint times
 
-Power output(watts)
+- Power output
 
-Respiratory exchange ratios(RER)
+- Respiratory exchange ratios(RER)
 
-Plasma glucose concentration
+- Plasma glucose concentration
 
-Blood lactate concentration
+- Blood lactate concentration
 
-Hemoglobin concentration
+- Hemoglobin concentration
 
-Hematocrit concentration
+- Hematocrit concentration
 
-Resting plasma volume
+- Resting plasma volume
 
-Muscle total creatine concentration
+- Muscle total creatine concentration
 
-Muscle creatine phosphate content
+- Muscle creatine phosphate content
 
-Muscle creatine concentration
+- Muscle creatine concentration
 
-Muscle ATP content
+- Muscle ATP content
 
-Muscle lactate concentration
+- Muscle lactate concentration
 
-Muscle glycogen content
+- Muscle glycogen content
 
-Muscle fiber composition
+- Muscle fiber composition
 
 Data that could be left out:
-The muscle biopsy could maybe include more factors like muscle metabolites or enzymes specific to energy output and other variables related to exercise
 
-I don’t think there was a reference to micro muscle tears post workout and how those could influence future output. Soreness was mentioned but that is not an accurate indicator of muscle tears.
+- The muscle biopsy could maybe include more factors like muscle metabolites or enzymes specific to energy output and other variables related to exercise
 
-Subjects only followed an identical diet three days in advance. Exploring how the varying diets could influence muscle repair, blood lactate, or creatine levels was not explained.
+- I don’t think there was a reference to micro muscle tears post workout and how those could influence future output. Soreness was mentioned but that is not an accurate indicator of muscle tears.
+
+- Subjects only followed an identical diet three days in advance. Exploring how the varying diets could influence muscle repair, blood lactate, or creatine levels was not explained.
 
 **6. What evidence did they present to back up their conclusions?**
 
