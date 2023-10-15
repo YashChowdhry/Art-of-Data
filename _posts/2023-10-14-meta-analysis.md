@@ -21,6 +21,7 @@ Alternate hypothesis: ingestion of 3g/day of creatine monohydrate for 28 days do
 The data was collected and analyzed by the authors of the study themselves. As stated in the acknowledgements section, all five authors contributed to at least either data collection or analysis.
 
 Data analysis: Robert C Hickner, David J Dyck
+
 Data collection: Josh Sklar, Holly Hatley, Priscilla Byrd
 
 **3. What datasets does this study reference or use? Are these datasets available to the public?**
