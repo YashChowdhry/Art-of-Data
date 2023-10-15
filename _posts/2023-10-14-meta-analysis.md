@@ -2,8 +2,8 @@
 layout: post
 title: Lab 2 - Meta Analysis
 subtitle: Analysis of a creatine supplementation-based research study
-cover-img: /assets/img/creatine_cover.jpg
-thumbnail-img: /assets/img/creatine_thumbnail.png
+cover-img: /assets/img/creatine_thumbnail.png
+thumbnail-img: /assets/img/creatine_cover.jpg
 share-img: /assets/img/download3.jpg
 tags: [books, test]
 ---
