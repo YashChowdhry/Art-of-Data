@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lab 1 - Digimon
-subtitle: Exploring the basics of the data analysis using csv
+title: Lab 2 - Meta Analysis
+subtitle: Analysis of a creatine supplementation-based research study
 cover-img: /assets/img/download.jpg
 thumbnail-img: /assets/img/download2.jpg
 share-img: /assets/img/download3.jpg
