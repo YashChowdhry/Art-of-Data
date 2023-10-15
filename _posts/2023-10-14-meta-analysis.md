@@ -26,7 +26,7 @@ Data collection: Josh Sklar, Holly Hatley, Priscilla Byrd
 
 **3. What datasets does this study reference or use? Are these datasets available to the public?**
 
-The study references quite a few sources, some of which involve conducting other experiments and subsequently collecting data. Most of the sources are public and few require payment, however, not all the data is always presented. Some experiments deal with several test subjects but report the data with only the median change: initial-value += median change. 
+The study references quite a few sources, some of which involve conducting other experiments and subsequently collecting data. Most of the sources are public and few require payment, and not all the data is always presented. Some experiments deal with several test subjects but report the data with only the max change: initial-value += max change. 
 
 Example datasets:
 
@@ -44,13 +44,13 @@ Example datasets:
 
 The first source was published in Scandinavian Journal of Clinical and Laboratory Investigation, and thus not available to me, but it is still public
 
-**4. Why are they interested in this data?**
+**4. Why are they interested in this data?(not sure which of the following the question meant)**
 
 Interest in above data:
 
-Some of the references were used in explaining the background information and have generally been accepted as true. For example, muscle creatine phosphate content has been shown to decline during prolonged or creatine supplementation can increase muscle creatine phosphate content. A few of the references present conflicting data as described in the background to highlight the varying results. These datasets were not directly used to come to conclusions, but more so used to influence the procedure of the study.  For example, the distribution of the glycogen concentration helps unpack the implications of glycogen storage in the muscles on endurance. 
+Some of the references were used in explaining the background information and have generally been accepted as true. For example, muscle creatine phosphate content has been shown to decline during prolonged or creatine supplementation can increase muscle creatine phosphate content. A few of the references present conflicting data as described in the background to highlight the varying results. These datasets were not directly used to come to conclusions, but more so used to influence the procedure of the study. For example, the distribution of the glycogen concentration helps unpack the implications of glycogen storage in the muscles on endurance. 
 
-Interested in exploring further:
+Motivation for study:
 
 - The background hints that the motivation to research such a topic stemmed from the lack of information and conflicting data. 
 They state there is limited research on whether creatine supplementation can effectively elevate muscle creatine phosphate content and maintain it during prolonged endurance exercise. 
