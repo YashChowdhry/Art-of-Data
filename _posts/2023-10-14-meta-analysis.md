@@ -52,34 +52,60 @@ The test subjects are experienced athletes. There are plenty of studies demonstr
 
 Required data:
 Body weight
+
 Percent body fat
+
 Oxygen consumption(VO2) peak = peak aerobic capacity
+
 Training distance cycled per week
+
 Recorded data:
+
 Diet
+
 Muscle biopsy from quadricep femoris before and after 28 days
+
 Blood sample from forearm vein before and after 28 days
+
 Oxygen consumption
+
 VO2 peak 
+
 Final sprint times
+
 Power output(watts)
+
 Respiratory exchange ratios(RER)
+
 Plasma glucose concentration
+
 Blood lactate concentration
+
 Hemoglobin concentration
+
 Hematocrit concentration
+
 Resting plasma volume
+
 Muscle total creatine concentration
+
 Muscle creatine phosphate content
+
 Muscle creatine concentration
+
 Muscle ATP content
+
 Muscle lactate concentration
+
 Muscle glycogen content
+
 Muscle fiber composition
 
 Data that could be left out:
 The muscle biopsy could maybe include more factors like muscle metabolites or enzymes specific to energy output and other variables related to exercise
+
 I don’t think there was a reference to micro muscle tears post workout and how those could influence future output. Soreness was mentioned but that is not an accurate indicator of muscle tears.
+
 Subjects only followed an identical diet three days in advance. Exploring how the varying diets could influence muscle repair, blood lactate, or creatine levels was not explained.
 
 **6. What evidence did they present to back up their conclusions?**
