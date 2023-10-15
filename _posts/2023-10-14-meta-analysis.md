@@ -112,18 +112,18 @@ Subjects only followed an identical diet three days in advance. Exploring how th
 
 It can be concluded that although creatine supplementation may increase resting muscle total creatine, muscle creatine phosphate, and plasma volume, and may lead to a reduction in oxygen consumption during submaximal exercise, creatine supplementation does not improve sprint performance at the end of endurance cycling exercise.
 
-Conclusions:
-Plasma volume increases with creatine supplementation at 3 g/day for 28 days
-Changes in plasma volume from pre- to post-supplementation were significantly greater in the creatine group (+14.0 ± 6.3%) than the placebo group (-10.4 ± 4.4%; P < 0.05) at 90 minutes of exercise.
-Muscle total creatine and creatine phosphate increase with creation supplementation at 3 g/day for 28 days
-There was a 24.5 ± 10.0% increase in resting muscle total creatine and 38.4 ± 23.9% increase in muscle creatine phosphate in the creatine group
-Submaximal oxygen consumption near the end of the two-hour ride was decreased 
-by approximately 10% by creatine supplementation
-Changes in plasma volume from pre- to post-supplementation were significantly greater in the creatine group (+14.0 ± 6.3%) than the placebo group (-10.4 ± 4.4%; P < 0.05) at 90 minutes of exercise
-The time of the final sprint to exhaustion at the end of the 2-hour cycling bout was not affected by creatine supplementation
-creatine pre, 64.4 ± 13.5s; creatine post, 88.8 ± 24.6s; placebo pre, 69.0 ± 24.8s; placebo post 92.8 ± 31.2s: creatine vs. placebo not significant
-Power output for the final sprint was increased 
-by ~33% in both groups (creatine vs. placebo not significant)
+Statement: Plasma volume increases with creatine supplementation at 3 g/day for 28 days
+Evidence: Changes in plasma volume from pre- to post-supplementation were significantly greater in the creatine group (+14.0 ± 6.3%) than the placebo group (-10.4 ± 4.4%; P < 0.05) at 90 minutes of exercise.
+
+Statement: Muscle total creatine and creatine phosphate increase with creation supplementation at 3 g/day for 28 days
+Evidence: There was a 24.5 ± 10.0% increase in resting muscle total creatine and 38.4 ± 23.9% increase in muscle creatine phosphate in the creatine group
+
+Statement + Evidence: Changes in plasma volume from pre- to post-supplementation were significantly greater in the creatine group (+14.0 ± 6.3%) than the placebo group (-10.4 ± 4.4%; P < 0.05) at 90 minutes of exercise
+
+Statement + Evidence: The time of the final sprint to exhaustion at the end of the 2-hour cycling bout was not affected by creatine supplementation creatine pre, 64.4 ± 13.5s; creatine post, 88.8 ± 24.6s; placebo pre, 69.0 ± 24.8s; placebo post 92.8 ± 31.2s: creatine vs. placebo not significant
+
+Statement: Power output for the final sprint was increased 
+Evidence: ~33% in both groups (creatine vs. placebo not significant)
 
 
 **7. How was this study funded?**
