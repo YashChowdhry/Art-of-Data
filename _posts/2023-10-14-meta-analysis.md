@@ -40,12 +40,16 @@ The first source was published in Scandinavian Journal of Clinical and Laborator
 **4. Why are they interested in this data?**
 
 Interest in above data:
+
 Some of the references were used in explaining the background information and have generally been accepted as true. For example, muscle creatine phosphate content has been shown to decline during prolonged or creatine supplementation can increase muscle creatine phosphate content. A few of the references present conflicting data as described in the background to highlight the varying results. These datasets were not directly used to come to conclusions, but more so used to influence the procedure of the study.  For example, the distribution of the glycogen concentration helps unpack the implications of glycogen storage in the muscles on endurance. 
 
 Interested in exploring further:
+
 The background hints that the motivation to research such a topic stemmed from the lack of information and conflicting data. 
 They state there is limited research on whether creatine supplementation can effectively elevate muscle creatine phosphate content and maintain it during prolonged endurance exercise. 
+
 Of the five studies analyzing creatine effects on a duration greater than 20 minutes, three have shown increased performance whereas the other two demonstrate a decreased or constant performance. There are not enough studies to effectively corroborate data neither are the studies showing similar results encouraging more researchers to pursue this field. 
+
 The test subjects are experienced athletes. There are plenty of studies demonstrating that 20g/day creatine use in the short term has positively influenced intermittent exercise performance, but there is a lack of data regarding chronic, long-term, creatine supplementation and its effects on muscle creatine phosphate levels and performance.  
 
 **5. What data is being recorded? What data might be left out?**
