@@ -28,11 +28,17 @@ Data collection: Josh Sklar, Holly Hatley, Priscilla Byrd
 The study references quite a few sources, some of which involve conducting other experiments and subsequently collecting data. Most of the sources are public and few require payment, however, not all the data is always presented. Some experiments deal with several test subjects but report the data with only the median change: initial-value += median change. 
 
 Example datasets:
+
 Distribution of glycogen concentration values from quadriceps femoris
-cycling work output (watts), blood lactate accumulation, plasma accumulation of hypoxanthine, oxygen uptake → used to determine higher initial creatine phosphate content and an increased rate of creatine phosphate resynthesis
+
+Cycling work output (watts), blood lactate accumulation, plasma accumulation of hypoxanthine, oxygen uptake → all used to determine higher initial creatine phosphate content and an increased rate of creatine phosphate resynthesis
+
 Muscle ATP concentration in doing three isometric contractions
+
 Muscle ATP, phosphocreatine (PCr), and lactate concentrations were measured from biopsy samples of vastus lateralis muscle after varying recovery times
+
 Muscle total creatine concentration after consuming 20g/day creatine
+
 Blood ammonia accumulation during pre and post creatine supplementation
 
 The first source was published in Scandinavian Journal of Clinical and Laboratory Investigation, and thus not available to me, but it is still public
@@ -55,6 +61,7 @@ The test subjects are experienced athletes. There are plenty of studies demonstr
 **5. What data is being recorded? What data might be left out?**
 
 Required data:
+
 Body weight
 
 Percent body fat
