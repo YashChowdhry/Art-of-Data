@@ -10,6 +10,25 @@ tags: [books, test]
 
 Question 1: the average speed of all Digimon was roughly 120.4
 
+Lets breakdown the code to understand how we were able to access the dataset via the API:
+
+To access the API, python requires us to use the **requests** library. This library is used to make HTTP requests which simplifies the process of retrieving HTML content from websites.
+
+~~~
+Import requests
+~~~
+
+How do we actually send over the request the website? 
+
+~~~
+payload = {"key": "YashArtOfDataKEY123ABCsecret", "idx": idx} 
+	url = f"https://afeingoldhm.pythonanywhere.com/socks"
+	response = requests.get(url, params = payload)
+~~~
+
+The **payload** contains two key-value pairs, the key and idx. The key was needed to access the API, it serves as a password, and the idx was used to retrieve the information of a given index, it was a line by line process.  The url variable stores the url of the API with the specific endpoint we are working with. We then use the function **requests.get()** to actually make the request to the indicated url, and it provides the payload, the parameters needed to access the API. 
+
+
 Question 2: sample: (“Memory”, “10”) returns 5
 
 Question 3: a team is ['Koromon', 'Tsunomon', 'Tsumemon']
